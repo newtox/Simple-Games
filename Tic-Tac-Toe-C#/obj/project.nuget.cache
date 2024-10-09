@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8i0F3lN3sRCq1+soATBDkZjnOUEkGOBvXdCT+Tkkq0df7wr1EWDKFWEVCnPV/8mUWBJIT/EJby6zmZ1B0hsYTQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Justin\\Development\\Games\\Tic-Tac-Toe-C#\\Tic-Tac-Toe-C#.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Justin\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Justin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Justin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Justin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
